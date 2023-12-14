@@ -4,7 +4,7 @@ This repository contains the source code for the official website of Craig Smith
 
 The website was designed and created by Chad Thompson-Smith -> [reach Chad here if interested in his work or want your own site](https://github.com/tsmith4014).
 
-The website is hosted on GitHub Pages and can be accessed at [Smith Automotive](https://tsmith4014.github.io/craigs_service_station/).
+The website is hosted on GitHub Pages and can be accessed at [Smith Automotive](https://tsmith4014.github.io/Smith-Automotive/).
 
 ## Features
 
